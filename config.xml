@@ -11,7 +11,7 @@
     <description>
         The Telugu Panchangam app provides latest panchangam update daily in telugu language.
     </description>
-
+    <plugin name='AdMobPlugin' value='com.google.cordova.plugin.AdMobPlugin'/>
     <author href="http://tech2wire.org" email="saivarunk@gmail.com">
         PhoneGap Team
     </author>
