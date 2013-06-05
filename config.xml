@@ -52,10 +52,10 @@
     <icon src="img/icon.png"  gap:platform="android"    gap:density="xhdpi" />
 
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="img/icon.png"  gap:platform="android" gap:density="ldpi" />
-    <gap:splash src="rimg/icon.png"  gap:platform="android" gap:density="mdpi" />
-    <gap:splash src="img/icon.png"  gap:platform="android" gap:density="hdpi" />
-    <gap:splash src="img/icon.png" gap:platform="android" gap:density="xhdpi" />
+    <gap:splash src="img/splash.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="rimg/splash.png"  gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="img/splash.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="img/splash.png" gap:platform="android" gap:density="xhdpi" />
 
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
 
